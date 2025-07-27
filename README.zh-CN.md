@@ -4,6 +4,7 @@
 
 📘 [English README](./README.md)
 
+![](https://i.imgur.com/F8kSOxx.png)
 
 ## 功能特性
 - 集成 Lualine 状态栏显示

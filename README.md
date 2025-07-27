@@ -4,7 +4,7 @@ A simple and beautiful Pomodoro timer plugin for Neovim 🍅.
 
 📖 [中文文档 / Chinese README](./README.zh-CN.md)
 
-...
+![](https://i.imgur.com/F8kSOxx.png)
 
 
 ## Features
